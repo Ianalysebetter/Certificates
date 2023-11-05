@@ -1,0 +1,22 @@
+1
+----------
+
+
+<!-- Begin: HubSpot Academy - Inbound Sales Badge -->
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='Inbound Sales'>
+<img src='https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/f3d80938c7884a5191d85025ee0fa30f-1595619630102.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Inbound Sales Badge -->
+
+2
+-----------
+
+<!-- Begin: HubSpot Academy - Frictionless Sales Badge -->
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='Frictionless Sales'>
+<img src='https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/0a26d625a39f4f73a040fc110f701224-1595621540047.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Frictionless Sales Badge -->
